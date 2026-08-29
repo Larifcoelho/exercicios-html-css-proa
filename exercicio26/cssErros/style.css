@@ -1,0 +1,33 @@
+body {
+    background-color: purple
+    font-family: Arial;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: roxo;
+    font-size: 18px
+}
+
+.flor {
+    background-color: #e6d5f5;
+    border: 2px solid purple;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.flor h2 {
+    color: purpel;
+    text-align center;
+}
+
+.florr {
+    color: purple;
+    background-color: white;
+    

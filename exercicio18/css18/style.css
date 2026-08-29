@@ -1,0 +1,15 @@
+.card.es{
+    background-color: rgb(234, 170, 87);
+    text-align: center;
+}
+.card.ads{
+    background-color: aquamarine;
+    text-align: center;
+}
+.card.cc{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}

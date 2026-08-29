@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+}
+
+section {
+    padding: 30px;
+    margin: 10px;
+}
+
+.cor {
+    background-color: lightblue;
+}
+
+.imagem {
+    background-image: url("flores.png");
+    color: white;
+}
+
+.posicao {
+    background-image: url("flores.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}

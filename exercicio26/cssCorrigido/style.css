@@ -1,0 +1,34 @@
+body {
+    background-color: purple;
+    font-family: Arial;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: #4b176b;
+    font-size: 18px;
+}
+
+.flor {
+    background-color: #e6d5f5;
+    border: 2px solid purple;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.flor h2 {
+    color: purple;
+    text-align: center;
+}
+
+/* Correção: o seletor estava escrito como .florr */
+.flor {
+    color: purple;
+    background-color: white;
+}

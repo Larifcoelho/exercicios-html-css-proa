@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: white;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.card {
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.card h2 {
+    color: blue;
+}
+
+.card p {
+    color: #333;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}

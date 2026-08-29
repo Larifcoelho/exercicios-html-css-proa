@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Muda a cor e o tamanho do título */
+h1 {
+    color: #c2185b;
+    font-size: 35px;
+    text-align: center;
+}
+
+/* Muda a cor do subtítulo */
+h2 {
+    color: #880e4f;
+    font-size: 25px;
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #c2185b;
+    line-height: 1.5;
+}
