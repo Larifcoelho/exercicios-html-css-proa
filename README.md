@@ -1,4 +1,4 @@
-Exercícios HTML e CSS — PROA
+*Exercícios HTML e CSS — PROA*
 Repositório desenvolvido durante o curso do Instituto PROA, reunindo exercícios e práticas de HTML e CSS realizados ao longo dos estudos.
 
 O objetivo deste projeto é praticar os principais conceitos de desenvolvimento web, evoluindo gradualmente desde estruturas HTML básicas até projetos mais completos.
